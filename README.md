@@ -7,7 +7,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💡  I love turning ideas into products that help people manage **time, money, and mental health**  
+- 💡  I love turning ideas into products that help people manage **time, money, and mental health** 
+- 🏦  Recently built a full-stack **Serverless Payments Sandbox**: a production-grade fintech platform using AWS (Lambda, API Gateway, DynamoDB), FastAPI, and a modern React + TypeScript frontend
 - 🗂  Currently improving **Coincise**, a full-stack budgeting dashboard (Python · React · Typescript)  
 - 🗣️  Prototyping an **AI speech-to-speech therapist** that offers real-time sentiment-aware feedback  
 - 🌱  Learning **cloud & data engineering** on AWS / GCP and sharpening my **TypeScript + React Native** chops  
