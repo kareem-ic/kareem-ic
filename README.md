@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Kareem 👋</h1>
 <p align="center">
-  • Third Year @ University of Virginia — Computer Science<br>
+  • Fourth Year @ University of Virginia — Computer Science<br>
   • Aspiring Software / Data Engineer • AI Enthusiast • Builder at heart
 </p>
 
